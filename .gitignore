@@ -10,7 +10,7 @@ buildNumber.properties
 mvnw
 mvnw.cmd
 
-### ST2S ###
+### STS ###
 .apt_generated
 .classpath
 .factorypath
